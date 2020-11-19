@@ -1,0 +1,13 @@
+.top-nav {
+    overflow: hidden;
+    background-color: darkgrey;
+}
+
+.container {
+    float: left;
+}
+
+img {
+    background-position: center;
+    background-size: cover;
+}
