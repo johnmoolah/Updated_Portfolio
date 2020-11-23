@@ -1,0 +1,21 @@
+body {
+    background: url(https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat;
+
+}
+
+.jumbotron{
+    overflow: hidden;
+    background-color: transparent;
+    align-items: center;
+
+}
+
+a:hover {
+    background-color: white;
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    font-weight: 700;
+}
