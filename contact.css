@@ -10,3 +10,11 @@ a:hover {
 a {
     margin-left: 250px;
 }
+
+.float-left {
+    font-weight: 500;
+}
+
+.float-right{
+    font-weight: 500;
+}
