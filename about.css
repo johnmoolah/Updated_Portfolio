@@ -12,7 +12,10 @@ a {
 }
 
 h2 {
+    color: purple;
+    margin-top: 100px;
     text-align: center;
     font-weight: 700;
+
     
 }
