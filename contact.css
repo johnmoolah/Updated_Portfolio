@@ -1,7 +1,12 @@
 body {
-    background: url(https://images.pexels.com/photos/1423827/pexels-photo-1423827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background: url(https://images.pexels.com/photos/193004/pexels-photo-193004.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
 }
 
 
 a:hover {
     background-color: white;
+}
+
+a {
+    margin-left: 250px;
+}
