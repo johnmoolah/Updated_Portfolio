@@ -21,3 +21,12 @@ h2 {
 #hub {
     float: left;
 }
+
+#profile {
+    float: right;
+}
+
+h3 {
+    color: blue;
+    font-weight: 500;
+}
