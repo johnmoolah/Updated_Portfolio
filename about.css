@@ -18,6 +18,20 @@ h2 {
     font-weight: 700;
 }
 
+h1 {
+    color: goldenrod;
+
+}
+
+li {
+    text-align: left;
+
+}
+
+.card {
+    margin-left: 50px ;
+}
+
 #hub {
     float: left;
 }
